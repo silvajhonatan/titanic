@@ -6,3 +6,6 @@ I just finished the first course "R Basics", before moving on to the next course
 As my knowledge on the topic, R and Machine Learning, is yet supperficial, I've found a great resource to follow and perhaps explore a little bit more, you can find it all here http://trevorstephens.com/ .
 
 # Kaggle Titanic Dataset
+
+#### First attempt
+The most basic guess you could make is that they all died, and that was my first attempt, and guess what, it scored 62.679%.
