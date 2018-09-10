@@ -9,3 +9,5 @@ As my knowledge on the topic, R and Machine Learning, is yet supperficial, I've 
 
 #### First attempt
 The most basic guess you could make is that they all died, and that was my first attempt, and guess what, it scored 62.679%.
+
+![alt text](https://raw.githubusercontent.com/silvajhonatan/titanic/master/img/first_attempt.png)
